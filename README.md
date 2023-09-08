@@ -33,12 +33,13 @@ https://github.com/kanematthews/DiscordRoleBot/assets/134295646/c1814d32-efdc-47
 Then, in line with the clip below, create a new role called **"norole"** and click save changes 
 
 
-https://github.com/kanematthews/DiscordRoleBot/assets/134295646/d79b2082-c3d0-4c8e-88d0-b25f8a27fed7
+https://github.com/kanematthews/DiscordRoleBot/assets/134295646/fd002964-3122-403d-87fa-65463723a1f0
+
 
 After, in line with the clip below, click the + and create another role called **"member"** and click save changes
 
-https://github.com/kanematthews/DiscordRoleBot/assets/134295646/fd002964-3122-403d-87fa-65463723a1f0
 
+https://github.com/kanematthews/DiscordRoleBot/assets/134295646/f9105ef3-f715-453c-98bd-d9b3ee6d3bcc
 
 
 ## 3. Change text-channel permissions
