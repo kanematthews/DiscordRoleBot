@@ -25,17 +25,17 @@ The bot invite can be found at this link. Once it is clicked make sure you invit
 https://discord.com/api/oauth2/authorize?client_id=1099684282986938499&permissions=8&scope=bot
 
 ## 2. Edit Roles
-Next, in line with the GIF below, click to the right of your server name on the downward arrow and click **Server Settings** then click on **Roles** and click **Create Role**
+Next, in line with the clip below, click to the right of your server name on the downward arrow and click **Server Settings** then click on **Roles** and click **Create Role**
 
 https://github.com/kanematthews/DiscordRoleBot/assets/134295646/c1814d32-efdc-47c3-822b-9acad2f98375
 
 
-Then, in line with the GIF below, create a new role called **"norole"** and click save changes 
+Then, in line with the clip below, create a new role called **"norole"** and click save changes 
 
-![2](https://github.com/kanematthews/DiscordRoleBot/assets/134295646/dbd75e61-6c6b-4092-acc3-d04ca0c94773)
 
-After, in line with the GIF below, click the + and create another role called **"member"** and click save changes
-![8](https://github.com/kanematthews/DiscordRoleBot/assets/134295646/83e8ee50-0d5a-44af-8f1f-db32b0221792)
+https://github.com/kanematthews/DiscordRoleBot/assets/134295646/d79b2082-c3d0-4c8e-88d0-b25f8a27fed7
+
+After, in line with the clip below, click the + and create another role called **"member"** and click save changes
 
 https://github.com/kanematthews/DiscordRoleBot/assets/134295646/fd002964-3122-403d-87fa-65463723a1f0
 
@@ -43,26 +43,28 @@ https://github.com/kanematthews/DiscordRoleBot/assets/134295646/fd002964-3122-40
 
 ## 3. Change text-channel permissions
 
-Next, in line with the GIF below, create a channel in your server called "norole" and make it a private channel 
-
-![4](https://github.com/kanematthews/DiscordRoleBot/assets/134295646/ef8404ed-f819-44c2-876f-647e4708a545)
+Next, in line with the clip below, create a channel in your server called "norole" and make it a private channel 
 
 
-https://github.com/kanematthews/DiscordRoleBot/assets/134295646/9dcdb976-e304-45e4-9114-4cca6c35471e
+https://github.com/kanematthews/DiscordRoleBot/assets/134295646/c8823d28-2d12-48e2-b96a-234debb68e11
 
 
-Then, in line with the GIF below, click next and make sure to add @norole to it.
-
-![5](https://github.com/kanematthews/DiscordRoleBot/assets/134295646/ced09a00-532a-4b63-a507-d6ceedf7b7d8)
+Then, in line with the clip below, click next and make sure to add @norole to it.
 
 
-After, in line with the GIF below, right click your new #norole channel and click **Edit Channel**, head to **Permissions** and scroll down to where you see **Roles/Members**
+https://github.com/kanematthews/DiscordRoleBot/assets/134295646/bb2e7a59-c623-4894-954e-80f4af06690a
 
-![7](https://github.com/kanematthews/DiscordRoleBot/assets/134295646/aa9b8fa3-eef7-470d-8723-ebc1c26577b8)
 
-Next, in line with the GIF below, click **norole** and allow them to **Send Messages** and **Read Message History** and click **Save Changes**
+After, in line with the clip below, right click your new #norole channel and click **Edit Channel**, head to **Permissions** and scroll down to where you see **Roles/Members**
 
-![6](https://github.com/kanematthews/DiscordRoleBot/assets/134295646/e12bfe06-7828-4828-b8bd-a2da4bb6e6ff)
+
+https://github.com/kanematthews/DiscordRoleBot/assets/134295646/48015c87-7196-4d46-988f-e154108657db
+
+
+Next, in line with the clip below, click **norole** and allow them to **Send Messages** and **Read Message History** and click **Save Changes**
+
+
+https://github.com/kanematthews/DiscordRoleBot/assets/134295646/2b910494-f106-4f36-9742-0fa515dd5d37
 
 
 ## 4. You're done!
