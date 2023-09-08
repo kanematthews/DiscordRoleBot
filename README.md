@@ -26,7 +26,9 @@ https://discord.com/api/oauth2/authorize?client_id=1099684282986938499&permissio
 
 ## 2. Edit Roles
 Next, in line with the GIF below, click to the right of your server name on the downward arrow and click **Server Settings** then click on **Roles** and click **Create Role**
-![1](https://github.com/kanematthews/DiscordRoleBot/assets/134295646/648a26a8-b920-4a4d-a39a-49ecbbbdeb44)
+
+https://github.com/kanematthews/DiscordRoleBot/assets/134295646/c1814d32-efdc-47c3-822b-9acad2f98375
+
 
 Then, in line with the GIF below, create a new role called **"norole"** and click save changes 
 
@@ -35,11 +37,19 @@ Then, in line with the GIF below, create a new role called **"norole"** and clic
 After, in line with the GIF below, click the + and create another role called **"member"** and click save changes
 ![8](https://github.com/kanematthews/DiscordRoleBot/assets/134295646/83e8ee50-0d5a-44af-8f1f-db32b0221792)
 
+https://github.com/kanematthews/DiscordRoleBot/assets/134295646/fd002964-3122-403d-87fa-65463723a1f0
+
+
+
 ## 3. Change text-channel permissions
 
 Next, in line with the GIF below, create a channel in your server called "norole" and make it a private channel 
 
 ![4](https://github.com/kanematthews/DiscordRoleBot/assets/134295646/ef8404ed-f819-44c2-876f-647e4708a545)
+
+
+https://github.com/kanematthews/DiscordRoleBot/assets/134295646/9dcdb976-e304-45e4-9114-4cca6c35471e
+
 
 Then, in line with the GIF below, click next and make sure to add @norole to it.
 
